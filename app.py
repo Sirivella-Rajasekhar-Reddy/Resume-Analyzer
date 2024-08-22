@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 import os, json
 load_dotenv()
 
-os.environ['HF_TOKEN']=os.getenv("HF_TOKEN")
+os.environ['HF_TOKEN']="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"
 
 def create_tool(docs):
     if docs:
