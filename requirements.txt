@@ -10,7 +10,6 @@ wikipedia
 langchain_openai
 langchain_huggingface
 faiss-cpu
-langchain_chroma
 tiktoken
 pandasai
 streamlit
